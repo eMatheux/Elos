@@ -1,0 +1,7 @@
+main: me.com.splash.elos.Main
+name: SplashElos
+author: eMatheux
+version: 0.5
+commands:
+  elos:
+    aliases: [elo]

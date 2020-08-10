@@ -1,0 +1,6 @@
+MySQL:
+  Host: 'localhost'
+  Usuario: 'root'
+  Banco: 'test'
+  Port: '3306'
+  Senha: ''
